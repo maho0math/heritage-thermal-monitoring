@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.venv/
+venv/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vsidx
+*.sqlite
+*.json
+!mock-data/*.json
+!**/package.json
+
+# OS
+Thumbs.db
+Desktop.ini

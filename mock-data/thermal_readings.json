@@ -1,0 +1,44 @@
+﻿[
+  {
+    "id": "tr-001",
+    "object_id": "obj-001",
+    "temperature": 18.5,
+    "humidity": 62,
+    "timestamp": "2026-10-20T10:00:00"
+  },
+  {
+    "id": "tr-002",
+    "object_id": "obj-001",
+    "temperature": 11.2,
+    "humidity": 79,
+    "timestamp": "2026-10-21T08:00:00"
+  },
+  {
+    "id": "tr-003",
+    "object_id": "obj-002",
+    "temperature": 16.0,
+    "humidity": 55,
+    "timestamp": "2026-10-20T11:00:00"
+  },
+  {
+    "id": "tr-004",
+    "object_id": "obj-002",
+    "temperature": 8.7,
+    "humidity": 88,
+    "timestamp": "2026-10-21T07:30:00"
+  },
+  {
+    "id": "tr-005",
+    "object_id": "obj-003",
+    "temperature": 21.0,
+    "humidity": 48,
+    "timestamp": "2026-10-20T12:00:00"
+  },
+  {
+    "id": "tr-006",
+    "object_id": "obj-004",
+    "temperature": 14.3,
+    "humidity": 71,
+    "timestamp": "2026-10-21T09:15:00"
+  }
+]
